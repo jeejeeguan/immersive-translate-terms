@@ -4,6 +4,9 @@
 
 | source | target | tgt_lng |
 | --- | --- | --- |
+| Your Mind | Your Mind | auto |
+| Your mind | Your mind | auto |
+| your mind | your mind | auto |
 | system prompt | system prompt | auto |
 | System prompt | System prompt | auto |
 | System Prompt | System Prompt | auto |
