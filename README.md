@@ -4,6 +4,9 @@
 
 | source | target | tgt_lng |
 | --- | --- | --- |
+| system prompt | system prompt | auto |
+| System prompt | System prompt | auto |
+| System Prompt | System Prompt | auto |
 | skill | skill | auto |
 | skills | skills | auto |
 | Skills | Skills | auto |
