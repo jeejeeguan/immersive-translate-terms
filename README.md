@@ -4,6 +4,8 @@
 
 | source | target | tgt_lng |
 | --- | --- | --- |
+| Skills | Skills | auto |
+| Skill | Skill | auto |
 | claude skills | claude skills | auto |
 | Claude skills | Claude skills | auto |
 | Claude Skills | Claude Skills | auto |
