@@ -4,6 +4,12 @@
 
 | source | target | tgt_lng |
 | --- | --- | --- |
+| Coding Agent | Coding Agent | auto |
+| Coding agent | Coding agent | auto |
+| coding agent | coding agent | auto |
+| Coding agents | Coding agents | auto |
+| coding agents | coding agents | auto |
+| Coding Agents | Coding Agents | auto |
 | Your Mind | Your Mind | auto |
 | Your mind | Your mind | auto |
 | your mind | your mind | auto |
