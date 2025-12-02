@@ -4,6 +4,10 @@
 
 | source | target | tgt_lng |
 | --- | --- | --- |
+| Task | Task | auto |
+| task | task | auto |
+| Tasks | Tasks | auto |
+| tasks | tasks | auto |
 | Coding Agent | Coding Agent | auto |
 | Coding agent | Coding agent | auto |
 | coding agent | coding agent | auto |
