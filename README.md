@@ -71,3 +71,7 @@
 | Claude Cookbooks | Claude Cookbooks | auto |
 | Claude's Skills | Claude's Skills | auto |
 | Claude Skills | Claude Skills | auto |
+| secrets | secrets | auto |
+| Secrets | Secrets | auto |
+| Secret | Secret | auto |
+| secret | secret | auto |
